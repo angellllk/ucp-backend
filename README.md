@@ -1,0 +1,1 @@
+This repository contains the backend of an application developed to serve as a control panel for a multiplayer game. It was in need of better implementations (better error handling, English-only API return messages, refactoring with respect to SOLID principles, etc.), but the project ended and those updates won't come.
